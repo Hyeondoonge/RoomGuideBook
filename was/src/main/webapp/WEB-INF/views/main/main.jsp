@@ -151,7 +151,37 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                </li>
 
             <%}
-         %> 
+         %> <!--
+           <li>
+             <a href="#slide1">
+               <img src="images/slide-1.jpg" alt="" />
+             </a>
+             <div class="slider-detils">
+                <h3>MENS FOOT BALL <label>BOOTS</label></h3>
+                <span>Stay true to your team all day, every day, game day.</span>
+                <a class="slide-btn" href="details.html"> Shop Now</a>
+             </div>
+           </li>
+           <li>
+             <a href="#slide2">
+               <img src="images/slide-4.jpg"  alt="" />
+             </a>
+              <div class="slider-detils">
+                <h3>MENS FOOT BALL <label>BOOTS</label></h3>
+                <span>Stay true to your team all day, every day, game day.</span>
+                <a class="slide-btn" href="details.html"> Shop Now</a>
+             </div>
+           </li>
+           <li>
+             <a href="#slide3">
+               <img src="images/slide-1.jpg" alt="" />
+             </a>
+              <div class="slider-detils">
+                <h3>MENS FOOT BALL <label>BOOTS</label></h3>
+                <span>Stay true to your team all day, every day, game day.</span>
+                <a class="slide-btn" href="details.html"> Shop Now</a>
+             </div>
+           </li>-->
          </ul>
       </div>
    </div>
@@ -218,11 +248,191 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                   </div>
                   
             <%}%>
+                  
+
+               
+
+               <!-- 상품 정보1 끝-->
+               <!--   <div onclick="location.href='details.html';"  class="product-grid fade">
+                     <div class="product-grid-head">
+                        <ul class="grid-social">
+                           <li><a class="facebook" href="#"><span> </span></a></li>
+                           <li><a class="twitter" href="#"><span> </span></a></li>
+                           <li><a class="googlep" href="#"><span> </span></a></li>
+                           <div class="clear"> </div>
+                        </ul>
+                        <div class="block">
+                           <div class="starbox small ghosting"> </div> <span> </span>
+                        </div>
+                     </div>
+                     <div class="product-pic">
+                        <a href="#"><img src="images/product1.jpg" title="product-name" /></a>
+                        <p>
+                        <a href="#"><small>Nike</small> HYPERVENOM <small>Phantom</small> FG</a>
+                        <span>Men's Firm-Ground Football Boot</span>
+                        </p>
+                     </div>
+                     <div class="product-info">
+                        <div class="product-info-cust">
+                           // <a href="details.html">Details</a> 
+                        </div>
+                        <div class="product-info-price">
+                           <a href="details.html">&#163; 375</a>
+                        </div>
+                        <div class="clear"> </div>
+                     </div>
+                     <div class="more-product-info">
+                        <span> </span>
+                     </div>
+                  </div>
+                  <div onclick="location.href='details.html';"  class="product-grid fade last-grid">
+                     <div class="product-grid-head">
+                        <ul class="grid-social">
+                           <li><a class="facebook" href="#"><span> </span></a></li>
+                           <li><a class="twitter" href="#"><span> </span></a></li>
+                           <li><a class="googlep" href="#"><span> </span></a></li>
+                           <div class="clear"> </div>
+                        </ul>
+                        <div class="block">
+                           <div class="starbox small ghosting"> </div> <span> </span>
+                        </div>
+                     </div>
+                     <div class="product-pic">
+                        <a href="#"><img src="images/product3.jpg" title="product-name" /></a>
+                        <p>
+                        <a href="#"><small>Nike</small> HYPERVENOM <small>Phantom</small> FG</a>
+                        <span>Men's Firm-Ground Football Boot</span>
+                        </p>
+                     </div>
+                     <div class="product-info">
+                        <div class="product-info-cust">
+                           // <a href="details.html">Details</a> 
+                        </div>
+                        <div class="product-info-price">
+                           <a href="details.html">&#163; 350</a>
+                        </div>
+                        <div class="clear"> </div>
+                     </div>
+                     <div class="more-product-info">
+                        <span> </span>
+                     </div>
+                  </div>
+                  <div onclick="location.href='details.html';"  class="product-grid fade">
+                     <div class="product-grid-head">
+                        <ul class="grid-social">
+                           <li><a class="facebook" href="#"><span> </span></a></li>
+                           <li><a class="twitter" href="#"><span> </span></a></li>
+                           <li><a class="googlep" href="#"><span> </span></a></li>
+                           <div class="clear"> </div>
+                        </ul>
+                        <div class="block">
+                           <div class="starbox small ghosting"> </div> <span> </span>
+                        </div>
+                     </div>
+                     <div class="product-pic">
+                        <a href="#"><img src="images/product4.jpg" title="product-name" /></a>
+                        <p>
+                        <a href="#"><small>Nike</small> HYPERVENOM <small>Phantom</small> FG</a>
+                        <span>Men's Firm-Ground Football Boot</span>
+                        </p>
+                     </div>
+                     <div class="product-info">
+                        <div class="product-info-cust">
+                        // <a href="details.html">Details</a> 
+                        </div>
+                        <div class="product-info-price">
+                           <a href="details.html">&#163; 370</a>
+                        </div>
+                        <div class="clear"> </div>
+                     </div>
+                     <div class="more-product-info">
+                        <span> </span>
+                     </div>
+                  </div>
+                  <div onclick="location.href='details.html';"  class="product-grid fade">
+                     <div class="product-grid-head">
+                        <ul class="grid-social">
+                           <li><a class="facebook" href="#"><span> </span></a></li>
+                           <li><a class="twitter" href="#"><span> </span></a></li>
+                           <li><a class="googlep" href="#"><span> </span></a></li>
+                           <div class="clear"> </div>
+                        </ul>
+                        <div class="block">
+                           <div class="starbox small ghosting"> </div> <span></span>
+                        </div>
+                     </div>
+                     <div class="product-pic">
+                        <a href="#"><img src="images/product5.jpg" title="product-name" /></a>
+                        <p>
+                        <a href="#"><small>Nike</small> HYPERVENOM <small>Phantom</small> FG</a>
+                        <span>Men's Firm-Ground Football Boot</span>
+                        </p>
+                     </div>
+                     <div class="product-info">
+                        <div class="product-info-cust">
+                           // <a href="details.html">Details</a>
+                        </div>
+                        <div class="product-info-price">
+                           <a href="details.html">&#163; 355</a>
+                        </div>
+                        <div class="clear"> </div>
+                     </div>
+                     <div class="more-product-info">
+                        <span> </span>
+                     </div>
+                  </div>
+                  <div onclick="location.href='details.html';"  class="product-grid fade last-grid">
+                     <div class="product-grid-head">
+                        <ul class="grid-social">
+                           <li><a class="facebook" href="#"><span> </span></a></li>
+                           <li><a class="twitter" href="#"><span> </span></a></li>
+                           <li><a class="googlep" href="#"><span> </span></a></li>
+                           <div class="clear"> </div>
+                        </ul>
+                        <div class="block">
+                           <div class="starbox small ghosting"> </div> <span></span>
+                        </div>
+                     </div>
+                     <div class="product-pic">
+                        <a href="#"><img src="images/product6.jpg" title="product-name" /></a>
+                        <p>
+                        <a href="#"><small>Nike</small> HYPERVENOM <small>Phantom</small> FG</a>
+                        <span>Men's Firm-Ground Football Boot</span>
+                        </p>
+                     </div>
+                     <div class="product-info">
+                        <div class="product-info-cust">
+                        // <a href="details.html">Details</a>
+                        </div>
+                        <div class="product-info-price">
+                           <a href="details.html">&#163; 390</a>
+                        </div>
+                        <div class="clear"> </div>
+                     </div>
+                     <div class="more-product-info">
+                        <span> </span>
+                     </div>
+                  </div> -->
                <div class="clear"></div>
             </div>
          </div>
          <div class="clear"></div>
       </div>
    </div>
+   <!--- //End-content---->
+   <!---start-footer--
+       <div class="footer">
+         <div class="wrap">
+            <div class="footer-left">
+               <ul>
+                  <li><a href="#">RoomGuideBook</a> <span> </span></li>
+               </ul>
+            </div>
+          
+            <div class="clear"> </div>
+         </div>
+      </div> 
+      <!---//End-footer---->
+   <!---//End-wrap---->
 </body>
 </html>

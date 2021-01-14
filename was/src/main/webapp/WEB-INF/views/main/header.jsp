@@ -94,7 +94,7 @@ ul {
 					</form>
 				</div>
 				<div class="mid-grid-right">
-					<a class="logo" href="/"><span>
+					<a class="logo" href="/main"><span>
 					  <img src="/resources/others/logo.PNG" style="width: 8%; float: right">
 					 </span></a>
 				</div>
