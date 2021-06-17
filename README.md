@@ -2,20 +2,26 @@
 비대면 가구 쇼핑을 위한 반응형 온라인 가구 쇼핑몰
 
 
-## 개발언어 및 프레임워크/라이브러리
-```
-클라이언트: javascript(jquery)
-서버: java(spring)
-이미지처리: python(openCV)
-```
+## Technologies
+### language
+client: javascript
+server: java
+image processing server: python
 
-## 주요 기능
+### library / framework
+
+client: jquery
+server: spring
+image processing server: openCV
+
+
+## Features
 
 1. 2D 가구 배치
 2. 상품 구매 
 3. 배치 이미지 등록
 
-## 🌏 운영 페이지
+## Screenshots
 
 - 상품 리스트
 
