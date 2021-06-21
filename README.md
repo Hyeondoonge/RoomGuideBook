@@ -3,16 +3,17 @@
 
 
 ## Technologies
-### language
-client: javascript
-server: java
-image processing server: python
 
 ### library / framework
 
-client: jquery
-server: spring
-image processing server: openCV
+Client
+- jquery
+
+Server
+- spring
+
+Image processing
+- openCV
 
 
 ## Features
